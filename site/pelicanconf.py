@@ -36,5 +36,9 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'themes/voidy-bootstrap'
 STYLESHEET_FILES = ("pygment.css",)
+SIDEBAR = "sidebar.html"
+CUSTOM_SIDEBAR_TOP = ("sb_taglist.html")
+SOCIAL = ()
+
 
 
