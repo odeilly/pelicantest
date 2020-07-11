@@ -35,6 +35,6 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = 'themes/voidy-bootstrap'
-STYLESHEET_FILES = ("pygment.css", "custom.css",)
+STYLESHEET_FILES = ("pygment.css",)
 
 
