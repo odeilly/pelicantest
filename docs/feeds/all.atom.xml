@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelican Test</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-07-11T19:36:11Z</updated></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelican Test</title><link href="https://odeilly.github.io/pelicantest/" rel="alternate"></link><link href="https://odeilly.github.io/pelicantest/feeds/all.atom.xml" rel="self"></link><id>https://odeilly.github.io/pelicantest/</id><updated>2020-07-11T19:43:07Z</updated></feed>
